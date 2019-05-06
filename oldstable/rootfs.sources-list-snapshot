@@ -1,0 +1,2 @@
+deb http://snapshot.debian.org/archive/debian/20190506T000000Z oldstable main
+deb http://snapshot.debian.org/archive/debian-security/20190506T000000Z oldstable/updates main
