@@ -1,0 +1,2 @@
+deb http://snapshot.debian.org/archive/debian/20190506T000000Z jessie main
+deb http://snapshot.debian.org/archive/debian-security/20190506T000000Z jessie/updates main
